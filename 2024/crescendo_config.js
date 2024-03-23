@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024mdsev",
+      "defaultValue": "2024mdowi",
       "required": "true"
     },
     { "name": "Match Level",
